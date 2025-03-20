@@ -3,3 +3,15 @@
 IDE(파이참) git bash 터미널 연결
 Settings > tools > 터미널 > 셀경로 
 bash 선택
+
+git clone https://github.com/voidgogo/bigdata.git
+
+.gitignore이해
+
+2교시
+소수판정 프로그램 컨버전
+
+3교시
+git 명령어
+clone
+remote remove
