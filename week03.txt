@@ -1,0 +1,5 @@
+3주차
+1교시
+IDE(파이참) git bash 터미널 연결
+Settings > tools > 터미널 > 셀경로 
+bash 선택
