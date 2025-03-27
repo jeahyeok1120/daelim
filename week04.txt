@@ -11,8 +11,12 @@ git log --oneline --graph
 
 
 2교시
-1
+conflit 복습
 
 3교시
+파이썬 function
+파이참 conflit 복습
 
-
+git명령어
+pull
+fatch
