@@ -11,7 +11,7 @@ git log --oneline --graph
 
 
 2교시
-
+1
 
 3교시
 
