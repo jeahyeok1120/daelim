@@ -2,24 +2,17 @@
 1교시
 conflict 해결방법
 
-git명령어
+git 명령어
 log --oneline
 
 linux 명령어
+git log --oneline --graph
+
+
 
 2교시
 
 
 3교시
 
-4주차
-1교시
-git명령어
-log --oneline
 
-linux 명령어
-
-2교시
-
-
-3교시
