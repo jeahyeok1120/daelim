@@ -7,7 +7,7 @@ bash 선택
 git clone https://github.com/voidgogo/bigdata.git
 
 git명령어
-
+1
 remore -v
 
 .gitignore이해
@@ -15,6 +15,7 @@ remore -v
 2교시
 소수 판정 프로그램 컨버전
 
+git 명령어
 linux 명령어
 cat 파일명
 
