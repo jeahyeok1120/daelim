@@ -6,6 +6,10 @@ bash 선택
 
 git clone https://github.com/voidgogo/bigdata.git
 
+git명령어
+
+remore -v
+
 .gitignore이해
 
 2교시
@@ -13,5 +17,6 @@ git clone https://github.com/voidgogo/bigdata.git
 
 3교시
 git 명령어
-clone
-remote remove
+clone " 가져올 원격리포지토리 주소"
+clone " 가져올 원격리포지토리 주소".
+remote remove origin
