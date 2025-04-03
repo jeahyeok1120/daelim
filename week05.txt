@@ -1,1 +1,16 @@
 1교시
+clone pull 차이점 Q&A
+git fork 
+다른사람 레포지토리 클론해서 내껄로 가져오기?
+
+
+2교시
+git pull request
+다른사람 레포지토리에 내가요청한거 바꾸어주세요 코맨트 가능
+
+feedback comment 
+
+merge
+적합것은 머지한다
+
+3교시
